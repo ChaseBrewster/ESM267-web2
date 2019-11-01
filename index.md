@@ -1,3 +1,3 @@
 my bitchin website
 
-[my bitchin map] (qgis2web)
+- [my bitchin map](qgis2web)
